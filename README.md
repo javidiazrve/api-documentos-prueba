@@ -33,7 +33,6 @@ Para probarlo primero correr de manera local MongoDB.
 Luego de correr la app con el comando:
 
 ```bash
-# development
 $ npm run start
 ```
 
