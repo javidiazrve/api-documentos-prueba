@@ -24,7 +24,21 @@
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+Api para prueba tecnica. Diferentes endpoints con su documentacion para crear, actualizar, eliminar y listar todos los documentos. 
+
+Sistema de autenticacion para el uso de metodos protegidos.
+
+Para probarlo primero correr de manera local MongoDB.
+
+Luego de correr la app con el comando:
+
+```bash
+# development
+$ npm run start
+```
+
+Entrar en un navegador web en http://localhost:3000/api para probar la api con su documentacion.
+
 
 ## Installation
 
